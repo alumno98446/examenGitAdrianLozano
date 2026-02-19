@@ -1,2 +1,1 @@
-# examenGitAdrianLozano
-practica examen de entornos de desarrollo
+REPOSITORIO DEL ALUMNO: ADRIAN LOZANO DIAZ
